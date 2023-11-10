@@ -1,6 +1,5 @@
 package V_gopath
 
-import "C"
 import (
 	"fmt"
 	"github.com/deer7777/C"
