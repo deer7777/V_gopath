@@ -10,6 +10,6 @@ import (
 }*/
 
 func V_print() {
-	fmt.Println("version V_v0.0.0")
+	fmt.Println("version V_v1.0.0")
 	C.C_print()
 }

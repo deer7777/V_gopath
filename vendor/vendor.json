@@ -1,0 +1,13 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "E/ln9Hdb4lTO4g209fLzYVGstJQ=",
+			"path": "github.com/deer7777/C",
+			"revision": "031989dbafe2b7ce4877e04857f6fbc562fa90fa",
+			"revisionTime": "2023-11-10T10:54:56Z"
+		}
+	],
+	"rootPath": "awesomeProject/V_gopath"
+}
